@@ -46,10 +46,14 @@ body {
 
 .header a {
   font-size: 18px;
-  color: #000;
+  color: #df2993;
 }
 
 .header a:hover {
+  color: #df2993;
+}
+
+.header b {
   color: #000;
 }
 
@@ -102,6 +106,34 @@ span {
 .kartice a:hover {
   text-decoration: none;
   color: #35a080;
+}
+
+.kartice1 {
+  width: 97%;
+  margin: 0px auto;
+  margin-top: 5%;
+}
+
+.kartice1 i {
+  text-align: center;
+  font-size: 60px;
+  padding: 2%;
+}
+
+.kartice1 h5 {
+  text-align: center;
+  margin-top: 3%;
+}
+
+.kartice1 a {
+  text-decoration: none;
+  color: #000;
+  text-align: center;
+}
+
+.kartice1 a:hover {
+  text-decoration: none;
+  color: #df2993;
 }
 
 .infosve {

@@ -38,9 +38,12 @@ body{
     justify-content: space-around;
     a{
         font-size: 18px;
-        color: #000;
+        color: #df2993;
     }
     a:hover{
+        color: #df2993;
+    }
+    b{
         color: #000;
     }
 }
@@ -50,6 +53,7 @@ body{
 span{
     color: #35a080;
 }
+
 //KRAJ HEADERA
 //SLAJDER
 .slajder{
@@ -86,6 +90,30 @@ span{
     a:hover{
         text-decoration: none;
         color: #35a080;
+    }
+}
+//KARTICE 1
+.kartice1{
+    width: 97%;
+    margin: 0px auto;
+    margin-top: 5%;
+    i{
+        text-align: center;
+        font-size: 60px;
+        padding: 2%;
+    }
+    h5{
+        text-align: center;
+        margin-top: 3%;
+    }
+    a{
+        text-decoration: none;
+        color: #000;
+        text-align: center;
+    }
+    a:hover{
+        text-decoration: none;
+        color: #df2993;
     }
 }
 //NOVI INFO
